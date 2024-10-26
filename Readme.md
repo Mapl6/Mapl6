@@ -1,4 +1,4 @@
-<body>
+<body style="dsiplay:flex">
     <img src="./Mapl.png" alt="Mapl" width="1024" height="350"/>
     <div style="padding: 20px; color: #ffffff; border-radius: 8px; max-width: 900px; margin: auto; background-color: #1e1e1e; display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; align-items: start;">        
         <div style="text-align: center; background-color: #2e2e2e; padding: 20px; border-radius: 8px; transition: background 0.3s;">
@@ -24,7 +24,10 @@
         </div>
         <div style="text-align: center; background-color: #2e2e2e; padding: 20px; border-radius: 8px; transition: background 0.3s;">
             <h3 style="font-size: 1.2rem; margin-bottom: 12px; color: #f2f2f2; border-bottom: 1px solid #555; display: inline-block; padding-bottom: 4px;">UI/UX Design</h3>
-            <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+            <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;"
+   onMouseOver="this.style.color='#0F0'"
+   onMouseOut="this.style.color='#00F'"
+            >
                 <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" style="width: 45px; padding: 8px; background-color: #333; border-radius: 6px; transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;">
             </div>
         </div>
