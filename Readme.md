@@ -1,1 +1,1 @@
-![Alt text](./generate_a.jpeg "MaPl")
+![Alt text](./generate_b.jpeg "MaPl")
