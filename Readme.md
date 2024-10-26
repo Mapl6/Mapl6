@@ -1,1 +1,1 @@
-![Alt text](./Mapl.jpeg "MaPl")
+![Alt text](./Mapl.png "MaPl")
