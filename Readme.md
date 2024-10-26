@@ -1,1 +1,0 @@
-<img src="./Mapl.png" alt="Mapl" width="1024" height="350"/>
