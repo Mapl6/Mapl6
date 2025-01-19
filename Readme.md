@@ -1,17 +1,17 @@
 <body style="dsiplay:flex">
     <img src="./Mapl.png" alt="Mapl" width="1024" height="350"/>
+</body>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahdi
 =============================================================================================================================
 
 Front-End developer
 -------------------
 
-*   🌍  I'm based in Tehran
-*   ✉️  You can contact me at [Mahdi.am6@gmail.com](mailto:Mahdi.am6@gmail.com)
-*   🧠  I'm learning Three.js
+* 🌍  I'm based in Tehran
+* ✉️  You can contact me at [Mahdi.am6@gmail.com](mailto:Mahdi.am6@gmail.com)
+* 🧠  I'm learning Three.js
 
-
-###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="34" alt="html5 logo"  />
@@ -32,6 +32,3 @@ Front-End developer
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="34" alt="storybook logo"  />
 </div>
-
-###
-</body>
